@@ -7,7 +7,7 @@ Quick Start
 **Install in your app directory, and edit the default config file.**
 
 ```shell
-$ npm install config
+$ npm install config-dynamic
 $ mkdir config
 $ vi config/default.json
 ```
