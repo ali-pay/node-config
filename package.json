@@ -8,10 +8,11 @@
   "keywords": [
     "conf",
     "config",
-    "dyanmic",
+    "dynamic",
     "feature",
-    "reload",
     "flip",
+    "file",
+    "reload",
     "configuration",
     "node-config",
     "config-node",
