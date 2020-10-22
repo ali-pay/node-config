@@ -1,6 +1,6 @@
 {
   "name": "config-dynamic",
-  "version": "3.4.0",
+  "version": "3.4.1",
   "main": "./lib/config.js",
   "description": "Dynamic configuration control for production node deployments",
   "author": "Rohit Manohar <rohit.manohar@gmail.com>",
