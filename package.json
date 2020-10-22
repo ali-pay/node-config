@@ -1,13 +1,17 @@
 {
-  "name": "config",
+  "name": "config-dynamic",
   "version": "3.4.0",
   "main": "./lib/config.js",
-  "description": "Configuration control for production node deployments",
-  "author": "Loren West <open_source@lorenwest.com>",
-  "homepage": "http://lorenwest.github.com/node-config",
+  "description": "Dynamic configuration control for production node deployments",
+  "author": "Rohit Manohar <rohit.manohar@gmail.com>",
+  "homepage": "https://github.com/rohitm/node-config",
   "keywords": [
     "conf",
     "config",
+    "dyanmic",
+    "feature",
+    "reload",
+    "flip",
     "configuration",
     "node-config",
     "config-node",
@@ -39,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/lorenwest/node-config.git"
+    "url": "https://github.com/rohitm/node-config.git"
   },
   "engines": {
     "node": ">= 6.0.0"
